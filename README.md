@@ -2,7 +2,7 @@
 
 👋 Seja bem-vinda(o)!
 
-É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
+O conteúdo desse curso é da [**Escola Talking About Testing**](https://udemy.com/user/walmyr) e foi de grande valia para os meus próximos passos como Analista de Testes.
 
 ## O que você vai aprender
 
